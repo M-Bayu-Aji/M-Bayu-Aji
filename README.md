@@ -29,7 +29,10 @@ I'm a passionate **web development student** with a strong focus on **Frontend d
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%23354985.svg?style=for-the-badge&logo=vuedotjs&logoColor=%23fff)
 
 ### CSS Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -41,11 +44,12 @@ I'm a passionate **web development student** with a strong focus on **Frontend d
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Deployment & Cloud
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -65,7 +69,7 @@ I'm a passionate **web development student** with a strong focus on **Frontend d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bayu-Aji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-## 🌟 Featured Projects
+<!-- ## 🌟 Featured Projects
 
 ### 🔥 Project Name
 Brief description of your most impressive project
@@ -77,7 +81,7 @@ Brief description of your most impressive project
 Description of another significant project
 - **Tech Stack**: Laravel, MySQL, Bootstrap
 - **Features**: CRUD operations, Admin panel, Email notifications
-- [🔗 Live Demo](https://your-project-url.com) | [📁 Repository](https://github.com/yourusername/project)
+- [🔗 Live Demo](https://your-project-url.com) | [📁 Repository](https://github.com/yourusername/project) -->
 
 ## 🤝 Let's Connect
 
@@ -96,15 +100,15 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ## 📈 Current Focus
 
-- 🚀 Deepening React.js knowledge
+- 🚀 Deepening React.js & Next.js knowledge
 - 🎨 Improving UI/UX design skills  
-- 🔧 Learning TypeScript
-- 📱 Exploring mobile development with React Native
+- 🔧 Learning Express.js: Mastering backend development with Node.js and Express.js to build scalable and efficient web applications.
+- 📱 Exploring mobile development with Flutter
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=M-Bayu-Aji&color=brightgreen" alt="Profile Views" />
 </div>
 
 <div align="center">
